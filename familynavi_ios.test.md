@@ -1,6 +1,6 @@
 TEST FamilyNavi iOS
 
-### 
+# Smoke Test
 PREREQ Internet & Location available
 - Open App
 > App opens, location is displayed
